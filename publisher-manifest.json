@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "440580f95695a72d0a566234",
+  "owner": "pusrrxun",
+  "repo": "page-3c2de1aa832fd891ff58c1a9",
+  "title": "LING",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3c2de1aa832fd891ff58c1a9",
+      "a": "LING",
+      "b": "机场官网线路发布页",
+      "entity": "LING",
+      "brand": "LING",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ef4d70fe7ec2859b15d19f06b25ce342cc95513b46e98368ad88c682a81620c1",
+      "content": {
+        "primary_entity": "LING",
+        "keyword1": "LING",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，内容围绕账号开通、设备绑定与节点选择展开，方便快速上手。",
+          "AI_HERO_SUBTITLE": "稳定连接，畅快访问",
+          "AI_HERO_INTRO": "LING 提供多地区网络加速服务，覆盖基础版到团队版三档套餐，设备数量与流量按档递增，适合个人、家庭及小型团队按需订阅。",
+          "AI_VISUAL_TITLE": "LING 网络加速",
+          "AI_HIGHLIGHT_1": "三档套餐灵活选择",
+          "AI_HIGHLIGHT_2": "多设备同时在线",
+          "AI_HIGHLIGHT_3": "IPLC 专线优化",
+          "AI_FEATURES_INTRO": "从流量、设备数到线路类型，按使用场景匹配合适套餐。",
+          "AI_FEATURES_TITLE": "套餐与场景匹配",
+          "AI_FEATURE_TITLE_1": "按设备选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版最多 20 台，按常用终端数量选择即可。",
+          "AI_FEATURE_TITLE_2": "按流量定周期",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合轻度浏览，300GB 满足日常影音，1000GB 适合多设备共享。",
+          "AI_FEATURE_TITLE_3": "按线路看需求",
+          "AI_FEATURE_TEXT_3": "普通节点覆盖基础访问，IPLC 专线对游戏和实时应用延迟更友好。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；按年付分别约 ¥150、¥350、¥850，流量与设备数逐档提升。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同系统有对应的订阅客户端，导入订阅链接即可使用，具体以各客户端文档为准。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "按选定套餐获取订阅信息，在设备客户端中完成导入。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版、团队版中选定套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认操作系统与客户端版本是否满足订阅导入的基本条件。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中粘贴订阅链接，更新节点列表后即可连接使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号可以登录几台设备？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台；超出数量可能导致部分设备掉线。",
+          "AI_FAQ_QUESTION_2": "年付比月付划算多少？",
+          "AI_FAQ_ANSWER_2": "以旗舰版为例，月付 ¥35，年付 ¥350，相当于节省两个月费用，适合长期稳定使用。",
+          "AI_FAQ_QUESTION_3": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_3": "当月流量耗尽后连接会暂停，次月自动重置；如需继续使用可升级套餐或等待新周期。",
+          "AI_FAQ_QUESTION_4": "IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_4": "IPLC 专线延迟更低、抖动更小，适合实时对战游戏、视频会议等对稳定性要求较高的场景。",
+          "AI_FAQ_QUESTION_5": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_5": "购买后在用户中心复制订阅链接，打开所选客户端粘贴并更新，即可看到节点列表并开始连接。",
+          "AI_CLOSING_TITLE": "开始使用 LING",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择套餐，导入订阅即可体验稳定加速。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nzaskvl.cn",
+    "host": "nzaskvl.cn"
+  },
+  "file_hashes": {
+    "index.html": "015ebd839410b0c7aa9e124932b5b134d2b77f3db1a8bac51557a1914026a0a3",
+    "sitemap.xml": "ac33c1ba8607910532f9dc38c2709eec9bef5d34606b033a9e1017a7a11f44c8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "93ecd1378c15f14a0fd9697e5532d852362f3bd4791d954d75a060e5ba8b46ee",
+    "robots.txt": "b8bcfccf43f3cbdf3df8af570650fcd8ea68d2d020be11f18086708b07779559",
+    "4dbd1aff273fb02df22299f6cf1940de.txt": "86b7529dab5ed49303374d9c6324f7f05f2930947e92aaf28cd5758c557fd74a"
+  },
+  "revision": "f71153f8a2e2bb22f9f64b1c59582463c9ad8b8dc6fd1abec097c328626bcbc5"
+}
